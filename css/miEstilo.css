@@ -1,0 +1,68 @@
+#encabezado{
+    width: 95%;
+    color: rgb(88, 14, 49);
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+#Logo{
+    margin: 10px 15px 10px 15px;
+    float: left;
+}
+#InformacionPersonal>h2{
+    color: rgb(212, 137, 184);
+    font-family: 'Times New Roman', Times, serif;
+}
+#InformacionPersonal>h3{
+    color: rgb(212, 137, 184);
+    font-family: 'Times New Roman', Times, serif;
+}
+#InformacionPersonal>h4>a{
+    color: rgb(134, 7, 88);
+}
+#Foto{
+    margin: 15px;
+    border-width: 8px;
+    border-style: outset;
+    float: left;
+}
+
+#ExperienciaLaboral>h2{
+    color: rgb(212, 137, 184);
+    font-family: 'Times New Roman', Times, serif;
+}
+#ExperienciaLaboral>h4>a{
+    color: rgb(134, 7, 88);
+}
+
+#TemasInteres>h2{
+    color: rgb(212, 137, 184);
+    font-family: 'Times New Roman', Times, serif;
+}
+#TemasInteres>h4>a{
+    color: rgb(134, 7, 88);
+}
+
+#Resumen>h2{
+    color: rgb(212, 137, 184);
+    font-family: 'Times New Roman', Times, serif;
+}
+#Resumen>h4>a{
+    color: rgb(134, 7, 88);
+}
+caption{
+    color: rgb(212, 137, 184);
+}
+thead{
+    color: rgb(134, 7, 88);
+}
+table{
+    border-color: rgb(134, 7, 88);
+    border-style: dashed;
+}
+
+
+nav>ul li a:visited{
+    color: #8b267b;
+    font-size: 30px;
+}
