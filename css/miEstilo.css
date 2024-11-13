@@ -66,3 +66,43 @@ nav>ul li a:visited{
     color: #8b267b;
     font-size: 30px;
 }
+
+.Fotos{
+    margin: 20px 10px 5px 15px;
+    float: left;
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+    overflow: hidden;
+}
+#Bloque1{
+    margin: 10px;
+    width: 550px;
+    height: 200px;
+    background-color: #a7749e;
+    border-width: 15px;
+    border-style: outset;
+}
+.Fotos2{
+    margin: 20px 10px 5px 15px;
+    float: left;
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+    overflow: hidden;
+}
+#Bloque2{
+    margin: 10px;
+    width: 550px;
+    height: 200px;
+    background-color: #a7749e;
+    border-width: 15px;
+    border-style: outset;
+}
+#images>h2{
+    color: rgb(212, 137, 184);
+    font-family: 'Times New Roman', Times, serif;
+}
+#images>h4>a{
+    color: rgb(134, 7, 88);
+}
